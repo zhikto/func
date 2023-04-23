@@ -1,0 +1,11 @@
+# Source: Metascan 2.9.0
+# Device: iPhone 12
+#
+# Exported: 2023-04-23T08:03:12.407638Z
+#
+
+newmtl material_0
+illum 1
+map_Kd metascan_20230423-1615_tex0.jpeg
+norm metascan_20230423-1615_norm0.jpeg
+map_ao metascan_20230423-1615_ao0.jpeg
